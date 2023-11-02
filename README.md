@@ -33,7 +33,6 @@ Here are some ideas to get you started:
 ![sqlite](https://img.shields.io/badge/SQLite-0099ff?style=for-the-badge&logo=sqlite&logoColor=white)
 ![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
 
-I run competitions on: 
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ccrisc)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccrisc&langs_count=8)
