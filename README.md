@@ -1,7 +1,7 @@
 ## Hi there ! 👋
-I am a self-taught and pssionate developer looking out to learn and improve my skills. I’m currently working on BigData analytics and web interfaces.
+I am a self-taught and passionate developer on a continuous journey of learning and skill improvement. My current focus is on mastering Big Data analytics and crafting web interfaces. ⚡
 
-<hr>
+<hr style="border: 0.5px solid #000;">
 
 <!--
 **ccrisc/ccrisc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-### My stats on GitHub:
+### My coding style:
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ccrisc">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccrisc" />
