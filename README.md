@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **ccrisc/ccrisc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🛠️ Things I code with
+### Things I code with
 ![R](https://img.shields.io/badge/R-789CAB?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -32,3 +31,5 @@ Here are some ideas to get you started:
 ![hive](https://img.shields.io/badge/Hive-cc9900?style=for-the-badge&logo=hive&logoColor=white)
 ![sqlite](https://img.shields.io/badge/SQLite-0099ff?style=for-the-badge&logo=sqlite&logoColor=white)
 ![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=ccrisc
