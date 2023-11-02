@@ -1,4 +1,8 @@
-### Hi there ! 
+## Hi there ! 👋
+I am a self-taught and pssionate developer looking out to learn and improve my skills!
+
+- 🔭 I’m currently working on BigData analytics and web interfaces.
+
 <!--
 **ccrisc/ccrisc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
