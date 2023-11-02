@@ -1,6 +1,8 @@
 ## Hi there ! 👋
 I am a self-taught and pssionate developer looking out to learn and improve my skills. I’m currently working on BigData analytics and web interfaces.
 
+<hr>
+
 <!--
 **ccrisc/ccrisc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -36,11 +38,13 @@ Here are some ideas to get you started:
 ![sqlite](https://img.shields.io/badge/SQLite-0099ff?style=for-the-badge&logo=sqlite&logoColor=white)
 ![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
 
+<hr>
+
 ### My stats on GitHub:
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ccrisc">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccrisc" />
-</a> <br> 
+</a>
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=ccrisc">
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ccrisc" />
 </a>
