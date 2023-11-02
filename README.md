@@ -1,7 +1,7 @@
 ## Hi there ! 👋
 I am a self-taught and passionate developer on a continuous journey of learning and skill improvement. My current focus is on mastering Big Data analytics and crafting web interfaces. ⚡
 
-<hr style="border: 0.5px solid #000;">
+<hr>
 
 <!--
 **ccrisc/ccrisc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
