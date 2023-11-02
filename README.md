@@ -1,4 +1,4 @@
-
+### Hi there ! 
 <!--
 **ccrisc/ccrisc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Stuff I code with:
+## Some stuff I code with:
 ![R](https://img.shields.io/badge/R-789CAB?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -33,6 +33,12 @@ Here are some ideas to get you started:
 ![sqlite](https://img.shields.io/badge/SQLite-0099ff?style=for-the-badge&logo=sqlite&logoColor=white)
 ![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
 
+##What you will find on my github:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ccrisc)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccrisc&langs_count=8)
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ccrisc">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccrisc" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/wakatime?username=ccrisc&layout=compact">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ccrisc&layout=compact" />
+</a>
+
