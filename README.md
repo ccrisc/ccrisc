@@ -33,12 +33,12 @@ Here are some ideas to get you started:
 ![sqlite](https://img.shields.io/badge/SQLite-0099ff?style=for-the-badge&logo=sqlite&logoColor=white)
 ![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
 
-##What you will find on my github:
+### What you will find on my github:
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ccrisc">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccrisc" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/wakatime?username=ccrisc&layout=compact">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ccrisc&layout=compact" />
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=ccrisc">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ccrisc" />
 </a>
 
