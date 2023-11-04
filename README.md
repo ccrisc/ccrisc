@@ -1,4 +1,4 @@
-## Hi there ! 👋
+## Hi there! 👋
 I am a self-taught and passionate developer on a continuous journey of learning and skill improvement. My current focus is on mastering Big Data analytics and crafting web interfaces. ⚡
 
 <hr>
