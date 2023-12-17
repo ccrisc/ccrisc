@@ -1,8 +1,6 @@
 <div align="center">
 <h1> <b>Hi there!</b><img src="https://cdn.jsdelivr.net/gh/shuding/fluentui-emoji-unicode/assets/%F0%9F%91%8B_3d.png" width=60></h1>
-<details>
-  <h4>I am a self-taught and passionate developer on a continuous journey of learning and skill improvement. My current focus is on mastering Big Data analytics and crafting web interfaces. ⚡ </h4>
-</details>
+  <p>I am a self-taught and passionate developer on a continuous journey of learning and skill improvement. My current focus is on mastering Big Data analytics and crafting web interfaces. ⚡ </p>
 </div>
 
 
