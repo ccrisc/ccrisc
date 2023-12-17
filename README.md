@@ -1,5 +1,10 @@
-## Hi there! 👋
-I am a self-taught and passionate developer on a continuous journey of learning and skill improvement. My current focus is on mastering Big Data analytics and crafting web interfaces. ⚡
+<div align="center">
+<h1> <b>Hi there!</b><img src="https://cdn.jsdelivr.net/gh/shuding/fluentui-emoji-unicode/assets/%F0%9F%91%8B_3d.png" width=60></h1>
+<details>
+  <h4>I am a self-taught and passionate developer on a continuous journey of learning and skill improvement. My current focus is on mastering Big Data analytics and crafting web interfaces. ⚡</h4>
+</details>
+</div>
+
 
 <hr>
 
@@ -33,7 +38,6 @@ Here are some ideas to get you started:
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-cc6600?style=for-the-badge&logo=mysql&logoColor=white)
-![neo4j](https://img.shields.io/badge/Neo4j-1BACEE?style=for-the-badge&logo=neo4j&logoColor=white)
 ![hive](https://img.shields.io/badge/Hive-cc9900?style=for-the-badge&logo=hive&logoColor=white)
 ![sqlite](https://img.shields.io/badge/SQLite-0099ff?style=for-the-badge&logo=sqlite&logoColor=white)
 ![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
