@@ -25,9 +25,19 @@ Here are some ideas to get you started:
 
 ### Some stuff I code with:
 
-![R](https://img.shields.io/badge/R-789CAB?style=for-the-badge&logo=r&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+| Languages  | Databases |
+| ------------- | ------------- |
+| ![R](https://img.shields.io/badge/R-789CAB?style=for-the-badge&logo=r&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  
+| Content Cell  |
+| Content Cell  | Content Cell  |
+
+
+
+
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![PHP](https://img.shields.io/badge/Php-A10E3B?style=for-the-badge&logo=php&logoColor=white)
