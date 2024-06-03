@@ -1,6 +1,6 @@
 <div align="center">
 <h1> <b>Hi there!</b><img src="https://cdn.jsdelivr.net/gh/shuding/fluentui-emoji-unicode/assets/%F0%9F%91%8B_3d.png" width=60></h1>
-  <p>I am a self-taught and passionate developer on a continuous journey of learning and skill improvement. My current focus is on mastering Big Data analytics and crafting web interfaces. ⚡ </p>
+  <p>I am a Full-Stack developer on a continuous journey of learning and skill improvement⚡ </p>
 </div>
 
 
@@ -10,9 +10,11 @@
 **ccrisc/ccrisc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Web Interfaces
+- 🌱 I’m currently learning Big Data Analytics
+<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
