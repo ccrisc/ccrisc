@@ -11,10 +11,10 @@
 
 Here are some ideas to get you started:
 -->
-
+<!--
 - 🔭 I’m currently working on Web Interfaces
 - 🌱 I’m currently learning Big Data Analytics
-<!--
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 -->
 
 ### Some stuff I code with:
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" alt="Woman Technologist" width="25" height="25" />
 
 |               |               |
 | ------------- | ------------- |
