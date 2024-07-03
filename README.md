@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-<h2 align="left"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6f8/512.gif" alt="🛸" width="60" > &nbsp; Activity Graph </h2>
+<h2 align="left"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Medium-Light%20Skin%20Tone.png" alt="Technologist Medium-Light Skin Tone" width="25" height="25" /> &nbsp; Activity Graph </h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ccrisc&theme=one-dark" alt="ccrisc Activities"/>
 
 
