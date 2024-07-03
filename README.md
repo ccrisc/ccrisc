@@ -29,9 +29,11 @@ Here are some ideas to get you started:
 
 <hr>
 
-<h2 align="left"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Medium-Light%20Skin%20Tone.png" alt="Technologist Medium-Light Skin Tone" width="30" /> &nbsp; My coding style </h2>
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccrisc" />
-<img align="center" height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ccrisc" />
+<h2 align="left"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="30" /> &nbsp; My coding style </h2>
+<div style="display: flex; align-items: center;">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccrisc" />
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=ccrisc" />
+</div>
 
 
 <hr>
