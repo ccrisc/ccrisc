@@ -1,5 +1,5 @@
 <div align="center">
-<h1> <b>Hi there!</b><img src="assets/images/Waving Hand Medium-Light Skin Tone.png" width=60></h1>
+<h1> <b>Hi there!</b><img src="assets/images/Waving Hand Medium-Light Skin Tone.png" width="60px"></h1>
   <p>I am a Full-Stack developer on a continuous journey of learning and skill improvement⚡ </p>
 </div>
 
