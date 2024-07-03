@@ -29,18 +29,14 @@ Here are some ideas to get you started:
 
 <hr>
 
-### My coding style:
+<h2 align="left"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Medium-Light%20Skin%20Tone.png" alt="Technologist Medium-Light Skin Tone" width="30" /> &nbsp; My coding style </h2>
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccrisc" />
+<img align="center" height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ccrisc" />
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ccrisc">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccrisc" />
-</a>
-<a align="center" href="https://github-readme-streak-stats.herokuapp.com/?user=ccrisc">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ccrisc" />
-</a>
 
 <hr>
 
-<h2 align="left"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Medium-Light%20Skin%20Tone.png" alt="Technologist Medium-Light Skin Tone" width="30" /> &nbsp; Activity Graph </h2>
+<h2 align="left"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Medium-Light%20Skin%20Tone.png" alt="Technologist Medium-Light Skin Tone" width="30" /> &nbsp; Activity Graph</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ccrisc&theme=github-light" alt="ccrisc Activities"/>
 
 
