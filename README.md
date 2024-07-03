@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <hr>
 
 <h2 align="left"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="30" /> &nbsp; My coding style </h2>
-<div style="display: flex; align-items: center;">
+<div style="display: flex; justify-content: center; align-items: center;">
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccrisc" />
   <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=ccrisc" />
 </div>
