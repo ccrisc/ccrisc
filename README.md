@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Some stuff I code with:
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="35" /> &nbsp; _Raycaster and Mouse Events_ &nbsp; <img src="https://skillicons.dev/icons?i=threejs" height="35" alt="threejs logo" />  Some stuff I code with:
 
 |Languages|Databases|Frameworks|SaaS|
 | ------------- | ------------- | ------------- |------------- |
