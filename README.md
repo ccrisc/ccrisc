@@ -135,7 +135,7 @@ Here are some ideas to get you started:
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" />
       <br>Tailwind
     </td>
         <td align="center" width="96">
@@ -145,6 +145,10 @@ Here are some ideas to get you started:
             <td align="center" width="96">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="40" height="40" />
       <br>Wordpress
+    </td>
+   <td align="center" width="96">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg" width="40" height="40" />
+      <br>Hadoop
     </td>
    
    
