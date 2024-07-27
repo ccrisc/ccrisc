@@ -43,8 +43,8 @@ Here are some ideas to get you started:
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" />
-      <br>React
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" />
+      <br>MongoDB
     </td>
     <td align="center" width="96">
       <a href="https://www.python.org/">
