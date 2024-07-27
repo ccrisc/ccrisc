@@ -150,6 +150,10 @@ Here are some ideas to get you started:
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg" width="40" height="40" />
       <br>Hadoop
     </td>
+       <td align="center" width="96">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="40" height="40" />
+      <br>Bash
+    </td>
    
    
  </tr>
