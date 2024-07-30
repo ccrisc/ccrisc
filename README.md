@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <h2 align="left"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="35" /> &nbsp; My coding style </h2>
 <div style="display: flex; align-items: center;" align="center">
-  <img height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccrisc&hide_progress=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccrisc&hide_progress=true" />
   <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=ccrisc" />
 </div>
 
