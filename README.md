@@ -18,21 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="left"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="35" /> &nbsp; My coding style </h2>
-<div style="display: flex; align-items: center;" align="center">
-  <img height="200" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccrisc&hide_progress=true" />
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=ccrisc" />
-</div>
-
-
-<hr>
-
-<h2 align="left"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Medium-Light%20Skin%20Tone.png" alt="Technologist Medium-Light Skin Tone" width="35" /> &nbsp; Activity Graph</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ccrisc&theme=github-light" alt="ccrisc Activities"/>
-
-<hr>
-
-<h2 align="left"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="35" /> &nbsp; Some stuff I code with </h2>
+<h2 align="left"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="35" /> &nbsp; Some stuff I code with </h2>
 
 <table>
 <div style="display: flex; align-items: flex-start; align: center">
@@ -160,6 +146,21 @@ Here are some ideas to get you started:
 </table>
 <br><br>
 </table>
+
+<hr>
+
+<h2 align="left"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Medium-Light%20Skin%20Tone.png" alt="Technologist Medium-Light Skin Tone" width="35" /> &nbsp; Activity Graph</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ccrisc&theme=github-light" alt="ccrisc Activities"/>
+
+<hr>
+
+
+
+<div style="display: flex; align-items: center;" align="center">
+  <img height="200" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccrisc&hide_progress=true" />
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=ccrisc" />
+</div>
+
 
 <hr>
 
