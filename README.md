@@ -154,13 +154,3 @@ Here are some ideas to get you started:
 
 <hr>
 
-
-
-<div style="display: flex; align-items: center;" align="center">
-  <img height="200" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccrisc&hide_progress=true" />
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=ccrisc" />
-</div>
-
-
-<hr>
-
